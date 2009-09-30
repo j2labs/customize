@@ -1,0 +1,8 @@
+The folders contain some neat themes the dock on Mac OS X.
+
+Scurve is the theme osx 10.5 came with.
+
+To use, open a terminal and cd to this directory (assuming you've
+cloned this git archive). Once there, choose the theme and cd into
+that directory. From inside, type "sudo ../install". It requires
+root privileges to modify the dock.

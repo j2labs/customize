@@ -1,3 +1,11 @@
 #!/bin/sh
+
+# To use this, you must sudo and then cd to the directory of the dock
+# graphics you wish to install. if your directory structure matches
+# mine (which it will if you checked this out from my github) then
+# then you run ../install
+
+# scurve is the theme osx 10.5 came with
+
 cp ./* /System/Library/CoreServices/Dock.app/Contents/Resources
 killall Dock
