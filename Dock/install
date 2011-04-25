@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cp ./* /System/Library/CoreServices/Dock.app/Contents/Resources
-killall Dock
